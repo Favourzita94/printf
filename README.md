@@ -1,1 +1,8 @@
-This is readme file
+0x11. C - printf
+
+collaborators:
+
+Tebiremen
+Wanjo001
+
+ALX team work
