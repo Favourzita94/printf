@@ -1,8 +1,7 @@
 0x11. C - printf
 
 collaborators:
+Nkemdilim favour
 
-Tebiremen
-Wanjo001
 
 ALX team work
